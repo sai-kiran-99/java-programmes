@@ -2,8 +2,8 @@ import java.util.Scanner;
 // Febinocci series  >>  if we add last two digits we must get the next digit 
 public class feb_series{
     public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        int length;
+        Scanner sc =new Scanner(System.in);
+        int length;//length
         System.out.println("Enter the length:");
         length=sc.nextInt();
         System.out.println(length);
