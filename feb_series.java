@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Febinocci series  >>  if we add last two digits we must get the next digit 
 public class feb_series{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
