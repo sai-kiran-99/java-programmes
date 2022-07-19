@@ -10,7 +10,7 @@ public class factorial {
         for(i=1;i<=n;i++){
             fact=fact*i;
         }
-        System.out.println("the factorial of the num" + n +"is" + fact);
+        System.out.println("the factorial of the num" + n +"is" + fact);//factorial
 
     }
 }
